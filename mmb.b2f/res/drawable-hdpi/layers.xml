@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item>
+      <bitmap
+        android:id="@+id/ifb" 
+        android:src="@drawable/fc"
+        android:gravity="center" />
+    </item>
+    <item android:top="218dip">
+      <bitmap
+        android:id="@+id/ifn"
+        android:src="@drawable/fc0"
+        android:gravity="center" />
+    </item>
+</layer-list>
