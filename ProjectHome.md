@@ -1,0 +1,1 @@
+Flux capacitor widget for Android. Back to the future flux capacitor animation for your Android.
